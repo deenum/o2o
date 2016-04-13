@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Feb 13 09:32:14 CET 2016
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1455352334994
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.jdom\:jdom\:jar\:${version.org.jdom} from/to central (https\://repo.maven.apache.org/maven2)\: Illegal character in path at index 52\: https\://repo.maven.apache.org/maven2/org/jdom/jdom/${version.org.jdom}/jdom-${version.org.jdom}.jar
